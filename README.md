@@ -33,3 +33,12 @@ https://youtu.be/9TcU2C1AACw
 
 Flappy Bird Game Using JavaScript
 https://youtu.be/L07i4g-zhDA
+  # Project Title
+
+## Description
+A short description of the project.
+
+## How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
