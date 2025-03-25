@@ -42,3 +42,5 @@ A short description of the project.
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/your-repo.git
+
+Welcome to my awesome project! (conflict-demo)
